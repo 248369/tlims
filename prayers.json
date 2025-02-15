@@ -2,7 +2,7 @@
   "texts": [
     {
       "id": 1,
-      "title": "Topic 1",
+      "title": "Topic1",
       "syc": {
         "text": "ܬܶܫܒܽܘܚܬܳܐ ܕܡܰܠܰܐܟܶܐ ܬܶܫܒܽܘܚܬܳܐ ܠܰܐܠܳܗܳܐ ܒܰܡܪ̈ܰܘܡܶܐ ܘܥܰܠ  ܐܰܪܥܳܐ ܫܠܳܡܳܐ ܘܫܰܝܢܳܐ ܘܣܰܒܪܳܐ ܛܳܒܳܐ ܠܰܒܢܰܝܢܳܫܳܐ ÷",
         "sound": "https://example.com/audio1_en.mp3"
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "title": "Topic 2",
+      "title": "Topic2",
       "syc": {
         "text": "syriac text test 77777777777777777777",
         "sound": "https://example.com/audio2_en.mp3"
@@ -34,7 +34,7 @@
     },
     {
       "id": 3,
-      "title": "Topic 3",
+      "title": "Topic3",
       "syc": {
         "text": "ܡܢ ܒܪܫܝܬ ܒܪܐ ܐܠܗܐ ܫܡܝܐ ܘܐܪܥܐ.",
         "sound": "https://example.com/audio3_en.mp3"
@@ -50,7 +50,7 @@
     },
     {
       "id": 4,
-      "title": "Topic 4",
+      "title": "Topic4",
       "syc": {
         "text": "ܐܢܐ ܗܘ ܐܠܦ ܘܬܘ. 434",
         "sound": "https://example.com/audio4_en.mp3"
@@ -66,7 +66,7 @@
     },
     {
       "id": 5,
-      "title": "Topic 5",
+      "title": "Topic5",
       "syc": {
         "text": "ܡܢ ܟܠܗܘܢ ܡܫܝܚܐ ܗܘ ܡܢܘ",
         "sound": "https://example.com/audio5_en.mp3"
