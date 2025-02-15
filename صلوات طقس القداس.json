@@ -1,0 +1,36 @@
+{
+  "texts": [
+    {
+      "id": 1,
+      "title": "Topic 1",
+      "syc": {
+        "text": "ܬܶܫܒܽܘܚܬܳܐ ܕܡܰܠܰܐܟܶܐ  ܬܶܫܒܽܘܚܬܳܐ ܠܰܐܠܳܗܳܐ ܒܰܡܪ̈ܰܘܡܶܐ ܘܥܰܠ  ܐܰܪܥܳܐ ܫܠܳܡܳܐ ܘܫܰܝܢܳܐ ܘܣܰܒܪܳܐ ܛܳܒܳܐ ܠܰܒܢܰܝܢܳܫܳܐ ÷",
+        "sound": "https://example.com/audio1_en.mp3"
+      },
+      "ar": {
+        "text": "هذا هو النص الأول باللغة العربية.",
+        "sound": "https://example.com/audio1_ar.mp3"
+      },
+      "fr": {
+        "text": "Ceci est la version française du texte 1.",
+        "sound": "https://example.com/audio1_fr.mp3"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Topic 2",
+      "syc": {
+        "text": "syriac text",
+        "sound": "https://example.com/audio2_en.mp3"
+      },
+      "ar": {
+        "text": "هذا هو النص الثاني باللغة العربية.",
+        "sound": "https://example.com/audio2_ar.mp3"
+      },
+      "fr": {
+        "text": "Ceci est la version française du texte 2.",
+        "sound": "https://example.com/audio2_fr.mp3"
+      }
+    }
+  ]
+}
