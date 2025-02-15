@@ -1,1 +1,84 @@
-
+{
+  "texts": [
+    {
+      "id": 1,
+      "title": "Topic 1",
+      "syc": {
+        "text": "ܬܶܫܒܽܘܚܬܳܐ ܕܡܰܠܰܐܟܶܐ ܬܶܫܒܽܘܚܬܳܐ ܠܰܐܠܳܗܳܐ ܒܰܡܪ̈ܰܘܡܶܐ ܘܥܰܠ  ܐܰܪܥܳܐ ܫܠܳܡܳܐ ܘܫܰܝܢܳܐ ܘܣܰܒܪܳܐ ܛܳܒܳܐ ܠܰܒܢܰܝܢܳܫܳܐ ÷",
+        "sound": "https://example.com/audio1_en.mp3"
+      },
+      "ar": {
+        "text": "هذا هو النص الأول باللغة العربية.",
+        "sound": "https://example.com/audio1_ar.mp3"
+      },
+      "fr": {
+        "text": "Ceci est la version française du texte 1.",
+        "sound": "https://example.com/audio1_fr.mp3"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Topic 2",
+      "syc": {
+        "text": "syriac text test 77777777777777777777",
+        "sound": "https://example.com/audio2_en.mp3"
+      },
+      "ar": {
+        "text": "هذا هو النص الثاني باللغة العربية.",
+        "sound": "https://example.com/audio2_ar.mp3"
+      },
+      "fr": {
+        "text": "Ceci est la version française du texte 2.",
+        "sound": "https://example.com/audio2_fr.mp3"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Topic 3",
+      "syc": {
+        "text": "ܡܢ ܒܪܫܝܬ ܒܪܐ ܐܠܗܐ ܫܡܝܐ ܘܐܪܥܐ.",
+        "sound": "https://example.com/audio3_en.mp3"
+      },
+      "ar": {
+        "text": "هذا هو النص الثالث باللغة العربية.",
+        "sound": "https://example.com/audio3_ar.mp3"
+      },
+      "fr": {
+        "text": "Ceci est la version française du texte 3.",
+        "sound": "https://example.com/audio3_fr.mp3"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Topic 4",
+      "syc": {
+        "text": "ܐܢܐ ܗܘ ܐܠܦ ܘܬܘ.",
+        "sound": "https://example.com/audio4_en.mp3"
+      },
+      "ar": {
+        "text": "هذا هو النص الرابع باللغة العربية.",
+        "sound": "https://example.com/audio4_ar.mp3"
+      },
+      "fr": {
+        "text": "Ceci est la version française du texte 4.",
+        "sound": "https://example.com/audio4_fr.mp3"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Topic 5",
+      "syc": {
+        "text": "ܡܢ ܟܠܗܘܢ ܡܫܝܚܐ ܗܘ ܡܢܘ",
+        "sound": "https://example.com/audio5_en.mp3"
+      },
+      "ar": {
+        "text": "هذا هو النص الخامس باللغة العربية.",
+        "sound": "https://example.com/audio5_ar.mp3"
+      },
+      "fr": {
+        "text": "Ceci est la version française du texte 5.",
+        "sound": "https://example.com/audio5_fr.mp3"
+      }
+    }
+  ]
+}
