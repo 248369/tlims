@@ -20,48 +20,64 @@
       "id": 2,
       "title": "Topic2",
       "syc": {
-        "text": "syriac text test 77777777777777777777",
+        "text": "ܘܐܪܥܐ",
         "sound": "https://example.com/audio2_en.mp3"
       },
       "ar": {
-        "text": "هذا هو النص الثاني باللغة العربية.",
+        "text": "العربية",
         "sound": "https://example.com/audio2_ar.mp3"
       },
       "fr": {
-        "text": "Ceci est la version française du texte 2.",
+        "text": "française",
         "sound": "https://example.com/audio2_fr.mp3"
       }
     },
     {
-      "id": 3,
-      "title": "Topic3",
+      "id": 2,
+      "title": "Topic2",
       "syc": {
-        "text": "ܡܢ ܒܪܫܝܬ ܒܪܐ ܐܠܗܐ ܫܡܝܐ ܘܐܪܥܐ.",
-        "sound": "https://example.com/audio3_en.mp3"
+        "text": "ܘܐܪܥܐ",
+        "sound": "https://example.com/audio2_en.mp3"
       },
       "ar": {
-        "text": "هذا هو النص الثالث باللغة العربية.",
-        "sound": "https://example.com/audio3_ar.mp3"
+        "text": "العربية",
+        "sound": "https://example.com/audio2_ar.mp3"
       },
       "fr": {
-        "text": "Ceci est la version française du texte 3.",
-        "sound": "https://example.com/audio3_fr.mp3"
+        "text": "française",
+        "sound": "https://example.com/audio2_fr.mp3"
       }
     },
     {
-      "id": 4,
-      "title": "Topic4",
+      "id": 2,
+      "title": "Topic2",
       "syc": {
-        "text": "ܐܢܐ ܗܘ ܐܠܦ ܘܬܘ. 434",
-        "sound": "https://example.com/audio4_en.mp3"
+        "text": "ܘܐܪܥܐ",
+        "sound": "https://example.com/audio2_en.mp3"
       },
       "ar": {
-        "text": "هذا هو النص الرابع باللغة العربية.111",
-        "sound": "https://example.com/audio4_ar.mp3"
+        "text": "العربية",
+        "sound": "https://example.com/audio2_ar.mp3"
       },
       "fr": {
-        "text": "Ceci est la version française du texte 4.0000000000",
-        "sound": "https://example.com/audio4_fr.mp3"
+        "text": "française",
+        "sound": "https://example.com/audio2_fr.mp3"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Topic2",
+      "syc": {
+        "text": "ܘܐܪܥܐ",
+        "sound": "https://example.com/audio2_en.mp3"
+      },
+      "ar": {
+        "text": "العربية",
+        "sound": "https://example.com/audio2_ar.mp3"
+      },
+      "fr": {
+        "text": "française",
+        "sound": "https://example.com/audio2_fr.mp3"
       }
     },
     {
