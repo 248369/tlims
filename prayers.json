@@ -1,5 +1,6 @@
 {
   "texts": [
+    
     {
       "id": 1,
       "title": "Notre Père qui es aux cieux آبون دْبَشْمايُو ܐܰܒܽܘܢ ܕܒܰܫܡܰܝܳܐ",
@@ -18,7 +19,7 @@
     },
     {
       "id": 2,
-      "title": "Topic2",
+      "title": "Topic",
       "syc": {
         "text": "ܘܐܪܥܐ",
         "sound": "https://example.com/audio2_en.mp3"
@@ -34,7 +35,7 @@
     },
     {
       "id": 3,
-      "title": "Topic3",
+      "title": "Topic",
       "syc": {
         "text": "ܘܐܪܥܐ",
         "sound": "https://example.com/audio2_en.mp3"
@@ -50,7 +51,7 @@
     },
     {
       "id": 4,
-      "title": "Topic4",
+      "title": "Topic",
       "syc": {
         "text": "ܘܐܪܥܐ",
         "sound": "https://example.com/audio2_en.mp3"
@@ -66,7 +67,7 @@
     },
     {
       "id": 5,
-      "title": "Topic5",
+      "title": "Topic",
       "syc": {
         "text": "ܘܐܪܥܐ",
         "sound": "https://example.com/audio2_en.mp3"
@@ -82,7 +83,7 @@
     },
     {
       "id": 6,
-      "title": "Topic6",
+      "title": "Topic",
       "syc": {
         "text": "ܡܢ ܟܠܗܘܢ ܡܫܝܚܐ ܗܘ ܡܢܘ",
         "sound": "https://example.com/audio5_en.mp3"
@@ -96,5 +97,6 @@
         "sound": "https://example.com/audio5_fr.mp3"
       }
     }
+
   ]
 }
