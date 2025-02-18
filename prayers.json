@@ -51,17 +51,17 @@
     },
     {
       "id": 4,
-      "title": "Topic",
+      "title": "ܩܰܕܺܝܫܰܬ ܐܰ‌ܠܳܗܳܐ - قادِيشات آلُوهُو - Tu es Saint, ô Dieu - قدّوس أنت أيّها الإله",
       "syc": {
-        "text": "ܘܐܪܥܐ",
+        "text": "ܩܰܕܺܝܫܰܬ ܐܰ‌ܠܳܗܳܐ܆ ܩܰܕܺܝܫܰܬ ܚܰܝܠܬ̣ܳܢܳܐ܆ ܩܰܕܺܝܫܰܬ ܠܳܐ ܡܳܝܽܘܬ̣ܳܐ܆ ܕܶܐܨܛܠܶܒܬ ♰ ܚܠܳܦܰܝܢ ܐܶܬ̣ܪܰܚܰܡܥܠܰܝܢ ܀",
         "sound": "https://example.com/audio2_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "قدّوس أنت أيّها الإله ܀ قدّوس أنت أيّها القويّ. قدّوس أنت غير المائت،  يا من صُلِبت عنّا ارحــــمنا ܀",
         "sound": "https://example.com/audio2_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Tu es Saint, ô Dieu, Tu es Saint, ô Fort,  Tu es Saint, ô Immortel, Toi qui as été crucifié pour nous ܀",
         "sound": "https://example.com/audio2_fr.mp3"
       }
     },
