@@ -83,17 +83,33 @@
     },
     {
       "id": 6,
-      "title": "Topic",
+      "title": "ܦܰܘܠܽܘܣ ܫܠܺܝܚܳܐ - فَوْلُوس شْلِيحُو - بولُسَ الرَّسولَ - apôtre Paul",
       "syc": {
-        "text": "ܡܢ ܟܠܗܘܢ ܡܫܝܚܐ ܗܘ ܡܢܘ",
+        "text": "ܦܰܘܠܽܘܣ ܫܠܺܝܚܳܐ ܘܛܽܘܒܳܢܳܐ ܫܶܡܥܶܬ̣ ܕܳܐܡܰܪ: ܕܶܐܢ ܐ̱ܢܳܫ ܢܺܐܬܶܐ ܢܣܰܒܰܪܟܽܘܢ ܠܒܰܪ ܡܶܢ ܡܳܐ ܕܣܰܒܰܪܢܳܟܽܘܢ܆ ܘܶܐܢ ܡܰܠܰܐܟܰܐ ܗ̱ܘ ܡܶܢ ܪܰܘܡܳܐ ܢܶܗܘܶܐ ܡܰܚܪܰܡ ܡܶܢ ܥܺܕܬܳܐ܆ ܕܗܳܐ ܢܳܒܥܺܝܢ ܠܰܡ ܝܽܘܠܦܳܢܶܐ ܡܫܰܚܠܦܶܐ ܡܶܢ ܟܽܠ ܓܰܒܺܝܢ܆ ܛܽܘܒ ܠܰܐܝܢܳܐ ܕܰܒܝܽܘܠܦܳܢܶܗ ܕܰܐܠܳܗܳܐ ܫܰܪܺܝ ܘܫܰܠܶܡ ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "هذا هو النص الخامس باللغة العربية.",
+        "text": "قَدْ سَمِعْتُ بولُسَ الرَّسولَ الْمغبوطَ يقولُ:  إذا جاءَ مَن يُبَشِّرُكُم بِخِلافِ ما بَشَّرْناكُم، فَلْيَكُن مَحْرومًا من البيعةِ ،وَلَئِنْ كانَ مَلاكًا مِنَ السَّماءِ، وَها إِنَّ تعاليمَ مختلفةً تَظهرُ مِنْ سائِرِ الجهاتِ فَطوبى لِمَنْ بَدَأَ وانْتَهى  بِتَعْليمِ الله ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "Ceci est la version française du texte 5.99999999999999",
+        "text": "J’ai entendu le bienheureux apôtre Paul dire : Si quelqu’un vient vous prêcher une doctrine contraire à celle que je vous ai prêchée, qu’il soit excommunié de l’Eglise, fût-il un ange du ciel. Voici que des enseignements divers surgissent de toutes parts. Bienheureux celui qui a commencé et fini dans la doctrine de Dieu ÷",
+        "sound": "https://example.com/audio5_fr.mp3"
+      }
+    },
+    {
+      "id": 7,
+      "title": "topic",
+      "syc": {
+        "text": "ܣܘܪܝܐܝܬ",
+        "sound": "https://example.com/audio5_en.mp3"
+      },
+      "ar": {
+        "text": "العربية",
+        "sound": "https://example.com/audio5_ar.mp3"
+      },
+      "fr": {
+        "text": "française",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     }
