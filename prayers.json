@@ -67,17 +67,17 @@
     },
     {
       "id": 5,
-      "title": "Topic",
+      "title": "ܫܠܺܝܚܶܐ ܓܒܰܝܳـܐ - شليحِه غبَايُو - إنّ الرُّسلَ المُختارينَ - Les Apôtres, choisis",
       "syc": {
-        "text": "ܘܐܪܥܐ",
+        "text": "ܫܠܺܝܚܶܐ ܓܒܰܝܳـܐ ܕܶܐܫܬܰܕܰܪܘ ܡܶܢ ܐܰܠܳܗܳܐ ܠܥܳܠܡܳܐ ܟܽܠܶܗ، ܘܰܢܦܰܩܘ ܐܰܟܪܶܙܘ ܣܒܰܪܬܶܗ ܕܰܒܪܳܐ ܒܶܝܬ ܥܰܡܡܶܐ ܘܥܶܒܪܶܝܗ ܕܰܐܪܥܳܐ, ܣܰܒܰܪܘ ܗܘܰܘ ܡܰܠܟܽܘܬܳܐ ܕܰܫܡܰܝܳܐ ܟܰܕ ܐܳܡܪܺܝܢ: ܛܽܘܒܳܐ ܠܰܡܗܰܝܡܢܶܐ.",
         "sound": "https://example.com/audio2_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "إنّ الرُّسلَ المُختارينَ الّذين أرسَلَهُم الله إلى العالمِ كُلِّه، فَخَرَجُوا إليهِ وَأذاعُوا بُشرى ابن الله بينَ الأُممِ وآفاقِ الدُّنيا، بَشَّرُوا بِمَلَكوتِ السَّمَوات.",
         "sound": "https://example.com/audio2_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Les Apôtres, choisis par Dieu et envoyés par Lui, se répandirent dans le monde entier, prêchant le message du fils parmi les Nations et jusqu'aux confins de la terre. Ils annonçaient le royaume des cieux, héritage heureux de ceux qui croient.",
         "sound": "https://example.com/audio2_fr.mp3"
       }
     },
