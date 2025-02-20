@@ -131,17 +131,17 @@
     },
     {
       "id": 9,
-      "title": "topic",
+      "title": "ܒܪܺܝܟ ܕܶܐܬܳܐ - بْرِيخ دِثُو - مباركٌ الّذي أتى - Béni soit celui qui est venu",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܒܪܺܝܟ ܕܶܐܬܳܐ ܘܰܥܬܺܝܕ ܕܢܺܐܬܶܐ. ܬܶܫܒܚܳܢ ܠܫܳܠܽܘܚܶܗ ܕܫܰܠܚܶܗ ܠܦܽܘܪܩܳܢܰܢ. ܘܥܰܠ ܟܽܠܰܢ ܪܰܚܡܰܘܗ̱ܝ ܠܥܳܠܡܺܝܢ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "مباركٌ الّذي أتى والعتيدُ أن يأتيَ. التّسابيحُ للّذي أرسلَهُ  لفدائِنا وَلْتَشملْنا رحمتُه إلى الأبد ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Béni soit celui qui est venu et qui viendra. Gloire à Celui qui l’a envoyé. Et que ses miséricordes soient sur nous toujours ÷",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },{
