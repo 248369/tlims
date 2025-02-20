@@ -115,17 +115,17 @@
     },
     {
       "id": 8,
-      "title": "topic",
+      "title": "ܒܰܪܶܟܡܳܪܝ̱ ܥܰܡ ܫܶܠܝܳܐ - بارِخْمُور عام شِلْيُو - بارِكْ يا سيِّد لِنُصغِ بِسكوتٍ - Barekhmor. Avec attention",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܒܰܪܶܟܡܳܪܝ̱ ܥܰܡ ܫܶܠܝܳܐ ܘܕܶܚܠܬܳܐ ܘܢܰܟܦܽܘܬܳܐ: ܢܨܽܘܬ̣ ܘܢܶܫܡܰܥ ܠܰܣܒܰܪܬܳܐ ܕܡܶܠܶܐ ܚܰܝܳܬܳܐ. ܕܶܐܘܰܢܓܶܠܝܽܘܢ ܩܰܕܺܝܫܳܐ ܕܡܳܪܰܢ ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ ܕܡܶܬ̣ܩܪܶܐ ܥܠܰܝܢ.",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "بارِكْ يا سيِّد. لِنُصغِ بِسكوتٍ وَوَرَعٍ وَعِفَّةٍ وَنَسْمَعْ بُشْرَى كلام الله الحيّ، في الإنجيلِ المقدَّس لربِّنا يسوع المسيح الّذي يُتلى علينا ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Barekhmor. Avec attention, crainte et pureté, écoutons et obéissons au message des paroles vivantes du saint Evangile de Notre-Seigneur Jésus-Christ qui est lu devant nous.",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
