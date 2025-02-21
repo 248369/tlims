@@ -146,17 +146,17 @@
       }
     },{
       "id": 10,
-      "title": "topic",
+      "title": "ܩܕܳܡ ܡܳܪܝܳܐ ܡܪܰܚܡܳܢܳܐ - قْذُوم مُورْيُو مْرَحْمُونُو - أمامَ الرَّبِّ الرَّحيمِ - Devant le Dieu miséricordieux",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܩܕܳܡ ܡܳܪܝܳܐ ܡܪܰܚܡܳܢܳܐ. ܘܰܩܕܳܡ ܡܰܕܒܚܶܗ ܡܚܰܣܝܳܢܳܐ. ܘܰܩܕܳܡ ܐ̱ܪܳܙܶܐ ܗܳܠܶܝܢ ܩܰܕܺܝܫܶܐ ܘܰܐܠܳܗܳܝܶܐ. ܒܶܣܡܶܐ ܡܶܬܬܣܺܝܡܺܝܢ. ܡܶܢ ܐܺܝܕܰܝ ܟܳܗܢܳܐ (ܐܰܒܽܘܢ ܡܥܰܠܝܳܐ) ܗܳܢܳܐ ܡܝܰܩܪܳܐ. ܢܨܰܠܶܐ ܟܽܠܰܢ ܪܰܚܡܶܐ ܘܰܚܢܳܢܳܐ ܡܶܢ ܡܳܪܝܳܐ ܢܶܒܥܶܐ. ܡܳܪܝܳܐ ܡܪܰܚܡܳܢܳܐ ܘܪܰܚܶܡܥܠܰܝܢ ܘܥܰܕܰܪܰܝܢ.",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "أمامَ الرَّبِّ الرَّحيمِ وَأَمامَ مَذْبَحِهِ الْغافِرِ  وَإزاءَ هَذِه الأسرارِ الْمُقَدَّسَةِ وَالإلَهِيَّة، يُوضَعُ البَخورُ بِيَدِ الْكاهِنِ الْمُوَقَّر (أو أبينا المطران). فَلْنُصَلِّ جَمِيعاً طالِبينَ مِنَ الرَّبِّ رَحْمَةً وحنانًا،  أيّها الربّ الرّحيم ترحّم علينا وأعنّا ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Devant le Dieu miséricordieux, devant Son autel purificateur, et devant ces célestes et divins mystères, l’encens est versé des mains de ce prêtre vénérable. Prions tous et demandons au Seigneur pitié et miséricorde ÷ Seigneur miséricordieux, prends pitié de nous et secours-nous ÷",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
