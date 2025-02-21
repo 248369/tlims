@@ -162,17 +162,17 @@
     },
     {
       "id": 11,
-      "title": "topic",
+      "title": "ܐܰܡܺܝܢ܆ ܡܳܪܝܳܐ ܢܩܰܒܶܠ ܚܽܘܣܳܝܳܟ - آمِين مُورْيُو نْقابِلْ حوسُويُوخ - آمين. تقبَّلَ الرَّبُّ استغفارَكَ - Amîn. Que le Seigneur accepte votre propitiation",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܐܰܡܺܝܢ܆ ܡܳܪܝܳܐ ܢܩܰܒܶܠ ܚܽܘܣܳܝܳܟ܆ ܘܠܰܢ ܢܥܰܕܰܪ ܒܰܨܠܰܘܳܬܳܟ.",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "آمين. تقبَّلَ الرَّبُّ استغفارَكَ وَأعانَنَا بِدَعَواتِكَ .",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Amîn. Que le Seigneur accepte votre propitiation et nous aide par vos prières.",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
