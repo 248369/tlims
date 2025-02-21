@@ -178,17 +178,17 @@
     },
     {
       "id": 12,
-      "title": "topic",
+      "title": "ܣܽܘܦܺܝܰܐܬ̣ܶܐ ܘܳܦܪܳܣܟܳܘܡܶܢ - سُوفْياثِه وَفْرُوسْكُومِن - لنُصْغِ بِحِكْمَةِ الله - Sophia Théou Proskomén",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܣܽܘܦܺܝܰܐܬ̣ܶܐ ܘܳܦܪܳܣܟܳܘܡܶܢ ܢܩܽܘܡ ܫܰܦܺܝܪ ܟܽܠܰܢ ܒܰܨܠܽܘܬ̣ ܟܳܗܢܳܐ (ܐܶܢ ܚܰܣܝܳܐ ܡܛܰܝܰܒ ܢܺܐܡܰܪ: ܐܰܒܽܘܢ ܡܥܰܠܝܳܐ) ܢܶܥܢܶܐ ܘܢܺܐܡܰܪ ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "لنُصْغِ بِحِكْمَةِ الله  ونَقِفْ حَسَنًا وَنَهْتِفْ بـــــــــــــــِدُعاءِ  "الكاهن المـــــوقّر" (أو أبينا المطران)   قائلين ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Sophia Théou Proskomén ! (Sagesse de Dieu ! Soyons attentifs) Tenons-nous bien et répondons à la prière de notre père vénéré et disons :",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
