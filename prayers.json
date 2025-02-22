@@ -226,17 +226,17 @@
     },
     {
       "id": 15,
-      "title": "topic",
+      "title": "ܢܩܽܘܡ ܫܰܦܺܝܪ - نْقومْ شافِيرْ - لِنَقِفْ حَسَنًا - Tenons-nous bien",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܢܩܽܘܡ ܫܰܦܺܝܪ܆ ܢܩܽܘܡ ܒܕܶܚܠܬܳܐ܆ ܢܩܽܘܡ ܒܢܰܟܦܽܘܬܳܐ܆ ܢܩܽܘܡ ܒܙܰܗܝܽܘܬܳܐ܆ ܢܩܽܘܡ ܒܩܰܕܺܝܫܽܘܬܳܐ܆ ܢܩܽܘܡ ܕܶܝܢ ܟܽܠܰܢ ܐܰܚܰܝ ܒܚܽܘܒܳܐ ܘܰܒܗܰܝܡܳܢܽܘܬܳܐ ܕܰܫܪܳܪܳܐ. ܡܶܬ̣ܝܰܕܥܳܢܳܐܺܝܬ̣ ܕܶܝܢ ܒܕܶܚܠܰܬ̣ ܐܰ‌ܠܳܗܳܐ ܒܰܐܢܢܰܦܳܘܪܰܐ ܗܳܕܶܐ ܕܚܺܝܠܬܳܐ ܘܩܰܕܺܝܫܬܳܐ ܕܰܩܕܳܡܰܝܢ ܣܺܝܡܳܐ. ܢܚܽܘܪ ܒܺܐܝܕܰܝ ܟܳܗܢܳܐ ܗܳܢܳܐ ܡܝܰܩܪܳܐ (ܐܰܘ ܐܰܒܽܘܢ ܡܥܰܠܝܳܐ) ܕܰܒܫܰܝܢܳܐ ܘܒܰܫܠܳܡܳܐ ܕܶܒܚܬܳܐ ܚܰـܝܬܳܐ ܠܰܐܠܳܗܳܐ ܐܰܒܳܐ ܡܳܪܶܐ ܟܽܠ ܚܠܳܦ ܟܽܠܰܢ ܢܩܰܪܶܒ.ܪܰܚܡܶܐ ܘܰܫܠܳܡܳܐ ܘܕܶܒܚܬܳܐ ܕܬܰܘܕܺܝܬܳܐ ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "لِنَقِفْ حَسَنًا، لِنقِفْ بِوَرَعٍ، لِنَقِفْ بِعِفَّة، لِنَقِفْ بطُهْرٍ، لِنَقِفْ بِقَداسةٍ، لِنَقِفْ جَميعًا يا إخْوَتي بِمَحَبَّةٍ وَيَقينٍ صادِقٍ، وَنُحَدِّقُ بهذهِ التَّقْدِمَةِ الرَّهِيبَةِ وَالْمُقَدَّسَةِ الْمَوْضوعَةِ أَمامَنَا بِيَدِ "هذا الكاهنِ المـــوقَّرِ"  (أو أبينا المطران) الّذي يرفعُ عنّا جميعًا  هذه الذّبيحةَ الحيّةَ للهِ الآبِ ربِّ العالمين بأمنٍ وسلامٍ. الرّحمةَ والسّلامَ  وذبيحةَ الشُّكران܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Tenons-nous bien ; tenons-nous avec crainte, tenons-nous avec modestie, tenons-nous avec pureté, tenons-nous avec sainteté. tenons-nous donc tous, mes frères, dans l’amour et la foi véritable. Dans la crainte de Dieu, regardons en esprit cette oblation  redoutable et sainte, placée devant nous, victime vivante, que le prêtre vénéré, de ses mains, offre pour nous tous, dans la paix et la concorde, à Dieu le Père de toute choses. Miséricorde, paix, sacrifice et reconnaissance܀",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
