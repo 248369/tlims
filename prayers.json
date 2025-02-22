@@ -258,17 +258,17 @@
     },
     {
       "id": 17,
-      "title": "topic",
+      "title": "ܩܰܕܺܝܫ. ܡܳܪܝܳܐ ܚܰܝܠܬܳܢܳܐ - قادِيش. مُورْيُو حَيلْثُونُو - قدّوسٌ، الربُّ القويُّ - le Seigneur puissant",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܩܰܕܺܝܫ ܩܰܕܺܝܫ ܩܰܕܺܝܫ. ܡܳܪܝܳܐ ܚܰܝܠܬܳܢܳܐ. ܗܰܘ ܕܰܡܠܶܝܢ ܫܡܰܝܳܐ ܘܰܐܪܥܳܐ ܡܶܢ ܬܶܫܒܚܳܬܶܗ. ܐܽܘܫܰܥܢܳܐ ܒܰܡܪܰܘܡܶܐ. ܒܪܺܝܟ̣ ܕܶܐܬܳܐ ܘܳܐܬܶܐ ܒܰܫܡܶܗ ܕܡܳܪܝܳܐ ܐܰܠܳܗܰܢ. ܬܶܫܒܽܘܚܬܳܐ ܒܰܡܪܰܘܡܶܐ ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "قدّوسٌ قدّوسٌ قدّوسٌ، الربُّ القويُّ المُمْتَلئةُ السَّماوات  والأرض مِنْ مَجْدِه. أوشَعْنا في الأعالي، تَبارَكَ الّذي أَتى وسوفَ يأتي باسمِ الربِّ القويِّ. المجدُ في الأعالي܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Saint, Saint, Saint, le Seigneur puissant ! Le ciel et la terre sont pleins de Sa gloire. Hosanna au plus haut des cieux ! Béni soit celui qui est venu et qui viendra au nom du Seigneur notre Dieu ! Gloire au plus haut des cieux܀",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
