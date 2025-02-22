@@ -274,17 +274,17 @@
     },
     {
       "id": 18,
-      "title": "topic",
+      "title": "ܡܰܘܬܳܟ ܡܳܪܰܢ ܡܶܬܥܗܕܺܝܢܰܢ - مَوْتُوخ مُوران مِثاهْدِينان - موتَكَ يا ربُّ نحنُ ذاكرون - Nous commémorons Ta mort, Seigneur",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܡܰܘܬܳܟ ܡܳܪܰܢ ܡܶܬܥܗܕܺܝܢܰܢ. ܘܒܰܩܝܳܡܬܳܟ ܡܰܘܕܶܝܢܰܢ. ܘܰܠܡܶܐܬܶܝܬ̣ܳܟ ܗܳܝ ܕܬܰܪܬܶܝܢ ܡܣܰܟܶܝܢܰܢ ܪܰܚܡܰܝܟ ܢܶܗܘܽܘܢ ܥܰܠ ܟܽܠܰܢ ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "موتَكَ يا ربُّ نحنُ ذاكرون، وبقيامَتِكَ مُعتَرِفون، ولِمَجيئِكَ الثّاني نحنُ مُنْتَظرون فَلْتَكُنْ مراحِمُكَ عَلَيْنا أجمعين ܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Nous commémorons Ta mort, Seigneur, nous confessons Ta résurrection et nous attendons Ton second avènement. Que Tes miséricordes soient sur nous tous܀",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
