@@ -338,17 +338,17 @@
     },
     {
       "id": 22,
-      "title": "topic",
+      "title": "ܩܳܢܽܘܢܳܐ ܕܰܐܚܶܐ ܡܗܰܝܡܢܶܐ - قُنونُو داحِه مْهايمْنه - تذكار الإخوة المؤمنين - Canon des Frères",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܬܽܘܒ ܕܶܝܢ ܡܶܬܰܥܗܕܺܝܢܰܢ ܠܟܽܠܗܽܘܢ ܐܰܚܰܝܢ ܡܗܰܝܡܢܶܐ ܘܰܟܪܺܝܣܛܝܳܢܶܐ ܫܰܪܺܝܪܶܐ. ܐܰܝܠܶܝܢ ܕܩܰܕܶܡܘ̱ ܦܰܩܶܕܘ̱ ܘܚܰܦܶܛܘ̱ ܠܰܒܨܺܝܪܽܘܬ̣ܳܐ ܘܠܰܡܚܺܝܠܽܘܬ̣ܳܐ ܕܺܝܠܰܢ. ܕܢܶܬܥܰܗܰܕ ܐܶܢܽܘܢ ܒܫܳܥܬ̣ܳܐ ܗܳܕܶܐ ܘܰܒܥܶܕܳܢܳܐ ܗܳܢܳܐ. ܘܰܚܠܳܦ ܟܽܠܗܽܘܢ ܐܰܝܠܶܝܢ ܕܰܒܟܽܠ ܙܢܺܝܢ ܕܢܶܣܝܽܘܢܶܐ ܥܰܣܩܶܐ ܪܡܶܝܢ. ܘܰܒܡܳܪܝܳܐ ܐܰ‌ܠܳܗܳܐ ܚܰܝܠܬ̣ܳܢܳܐ ܡܶܬ̣ܓܰܘܣܺܝܢ. ܘܰܚܠܳܦ ܦܽܘܪܩܳܢܗܽܘܢ. ܘܡܶܣܬܰܥܪܳܢܽܘܬܗܽܘܢ ܕܡܶܢܶܗ ܗ̱ܺܝ ܒܰܥܓܰܠ. ܘܰܚܠܳܦ ܥܺܕܬܳܐ ܗܳܕܶܐ ܢܛܺܝܪܰܬ ܒܰܐܠܳܗܳܐ. ܐܰܘܝܽܘܬ̣ܳܐ ܘܫܽܘܘܫܳܛܳܐ ܠܟܽܠܗܽܘܢ ܥܳܡܽܘܪܶܝܗ̇ ܡܗܰܝܡܢܶܐ ܕܒܰܡܝܰܬ̣ܪܽܘܬܳܐ ܢܶܗܘܽܘܢ ܠܡܳܪܝܳܐ ܢܶܬ̣ܟܰܫܰܦ  ܩܽܘܪܝܶܐܠܰܝܣܳܘܢ .",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "وَلْنَذْكُرْ أيضًا جَميعَ إخْوَتِنا المؤمنين والمسيحيّين الحقيقيّين، الّذين تَقَدَّموا فَأَوْصَوْنا وَحَثُّونا نَحْنُ القاصِرين الضُّعَفاء، على أَن نَذْكُرَهُم في هذه السّاعةِ  وفي هذا الوقتِ. وَمِنْ أَجْلِ جميعِ الّذين أحاطَتْ بِهِمْ صُنوفُ المحنِ الشّديدةِ، فلَجأُوا إلى الربِّ الإلهِ القديرِ ليخلِّصَهُم ، وَيَتَفَقَّدَهُم عاجلاً، وَمِنْ أجلِ هذه البيعةِ المحروسةِ مِنَ الله . وَوِفَاقِ أهْلِها المؤمنينَ ونجاحِهِم، لِيَحوزوا السِّيرةَ الفاضــلةَ.  لِنَبْتَهِلْ إلى الربِّ. يا ربُّ ارحمْ ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Barekhmor. Nous commémorons aussi tous les frères fidèles et les vrais chrétiens, qui ont  précédemment recommandé et exhorté notre petitesse et notre faiblesse de nous souvenir d’eux en cette heure et en ce moment ; et pour tous ceux qui se trouvent en butte à toutes sortes detentations difficiles, et se réfugient auprès de Toi, Seigneur, Dieu puissant, qu’ils soient sauvés et secourus en toute hâte. Pour cette Eglise (ou monastère) protégée par Dieu, pour la concorde et le succès des fidèles qui l’habitent ; afin qu’ils soient dans la vertu. Supplions le Seigneur. Kuryélayson.",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
