@@ -306,17 +306,17 @@
     },
     {
       "id": 20,
-      "title": "topic",
+      "title": "ܡܳܐ ܕܚܺܝܠܳܐ ܗ̱ܝ ܫܳܥܬܳܐ ܗܳܕܶܐ - مُو دْحِيلُوي شُوعْثُو هُوده - ما أخوفَ هذه السّاعةَ - Comme cette heure est effrayante",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܡܳܐ ܕܚܺܝܠܳܐ ܗ̱ܝ ܫܳܥܬܳܐ ܗܳܕܶܐ ܘܰܟܡܳܐ ܪܗܺܝܒ ܥܶܕܳܢܳܐ ܗܳܢܳܐ ܚܰܒܺܝܒܰܝ. ܕܒܶܗ ܪܽܘܚܳܐ ܩܰܕܺܝܫܳܐ ܡܶܢ ܡܪܰܘܡܶܐ ܥܶܠܳܝܶܐ ܕܰܫܡܰܝܳܐ ܙܳܐܰܚ ܘܢܳܚܶܬ. ܘܰܡܪܰܚܶܦ ܘܫܳܪܶܐ ܥܰܠ ܐܽܘܟܰܪܶܣܛܺܝܰܐ. ܗܳܕܶܐ ܕܣܺܝܡܳܐ ܘܰܡܩܰܕܶܫ ܠܳܗ̇. ܒܫܶܠܝܳܐ ܘܰܒܕܶܚܠܬܳܐ ܗܘܰܝܬܽܘܢ ܟܰܕ ܩܳܝܡܺܝܢ ܘܰܡܨܰܠܶܝܢ ܨܰܠܰܘ. ܫܠܳܡܳܐ ܥܰܡܰܢ ܘܫܰܝܢܳܐ ܠܟܽܠܰܢ ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "يا أحبّائي، ما أخوفَ هذه السّاعةَ وما أرهبَ هذا الوقتَ الّذي فيه يَنْحَدِرُ الرّوحُ القُدسُ نازلاً من أعالي السّماواتِ العاليةِ،  وَيَرِفُّ ويَحِلُّ على هذه الأوخارستيّا الموضوعةِ، ويُقدِّسُها، فَقِفُوا وَصَلُّوا بِوَرَعٍ وَسُكونٍ السَّلامُ مَعَنا وَالأمْنُ لِجَمِيعِنا܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Comme cette heure est effrayante et qu’il est redoutable ce moment, mes biens-aimés, où l’Esprit-Saint afflue et descend des sublimes sphères célestes, volette et repose sur cette Eucharistie placée ici et la consacre. Tenez-vous debout et priez dans le silence et la crainte. Priez. Que la paix soit avec nous et la tranquillité à nous tous܀",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
