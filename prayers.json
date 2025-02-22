@@ -290,17 +290,17 @@
     },
     {
       "id": 19,
-      "title": "topic",
+      "title": "ܠܳܟ̣ ܡܫܰܒܚܺܝܢܰܢ. ܠܳܟ̣ ܡܒܰܪܟܺܝܢܰܢ - لُوخ مْشابْحِينان. لُوخ مْبارْخِينان - إيّاكَ نُسَبِّحُ، إيَّاكَ نُبارِكُ - Nous Te louons, nous Te bénissons",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܪܰܚܶܡܥܠܰܝܢ ܐܰ‌ܠܳܗܳܐ ܐܰܒܳܐ ܐܰܚܺܝܕ ܟܽܠ  (ܐܶܬ̣ܪܰܚܰܡܥܠܰܝܢ). ܠܳܟ̣ ܡܫܰܒܚܺܝܢܰܢ. ܠܳܟ̣ ܡܒܰܪܟܺܝܢܰܢ. ܠܳܟ̣ ܣܳܓ̣ܕܺܝܢܰܢ. ܘܒܳܥܶܝܢܰܢ ܡܶܢܳܟ̣ ܡܳܪܝܳܐ ܐܰ‌ܠܳܗܰܢ. ܚܽܘܣ ܛܳܒܳܐ ܘܶܐܬ݂ܪܰܚܰܡܥܠܰܝܢ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "الشّعب : ارْحَمْنا أيُّها الإلَهُ الآبُ الضَّابِطُ الكُلِّ ارْحَمْنا، إيّاكَ نُسَبِّحُ، إيَّاكَ نُبارِكُ، لَكَ نَسْجُدُ، وَمِنْكَ نَطْلُبُ أيُّها الرَّبُّ إلَهُنا تعطَّفْ أيّها الصّالحُ وارحَمْنا܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Prends pitié de nous, Dieu Père tout puissant. Nous Te louons, nous Te bénissons, nous T’adorons et nous Te supplions, Seigneur notre Dieu :Sois clément, Toi qui es bon, et prends pitié de nous܀",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
