@@ -354,17 +354,18 @@
     },
     {
       "id": 23,
-      "title": "topic",
+      "title": "ܩܳܢܽܘܢܳܐ ܕܡܰܠܟܶܐ ܡܗܰܝܡܢܶܐ - قُنونُو دْمَلْكه مْهايمْنه - تذكار الملوك المؤمنين - canon des rois fidèles",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܬܽܘܒ ܕܶܝܢ ܡܶܬܰܥܗܕܺܝܢܰܢ ܠܟܠܗܽܘܢ ܡܰܠܟܶܐ ܡܗܰܝܡܢܶܐ ܘܰܟܪܺܝܣܛܝܳܢܶܐ ܫܰܪܺܝܪܶܐ. ܐܰܝܠܶܝܢ ܕܰܠܥܺܕ̈ܳܬ̣ܳܐ ܘܰܠܕܰܝܪܳܬ̣ܳܐ ܕܰܐܠܳܗܳܐ ܕܒܰܐܪܒܰܥ ܦܶܢܝܳܢ. ܩܰܝܶܡܘ̱ ܘܫܰܪܰܪܘ̱ ܒܗܰܝܡܳܢܽܘܬ̣ܳܐ ܕܰܫܪܳܪܳܐ. ܘܰܚܠܳܦ ܟܽܠܳܗ̇ ܐܺܝܦܳܘܠܳܘܛܺܝܰܐ ܟܪܺܝܣܛܝܳܢܺܝܬ̣ܳܐ ܘܰܩܠܺܝܪܳܘܤ ܘܥܰܡܳܐ ܡܗܰܝܡܢܳܐ ܕܒܰܡܝܰܬܪܽܘܬܳܐ ܢܶܗܘܽܘܢ ܠܡܳܪܝܳܐ
+ܢܶܬ̣ܟܰܫܰܦ ܩܽܘܪܝܶܐܠܰܝܣܳܘܢ÷",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "ولنَذكُرْ أيضًا جَميعَ الملوكِ المُؤمنين والمسيحيّين الحقيقيّين، الّذينَ أيَّدُوا وَثَبَّتوا بِيَعَ اللهِ وأدْيارَهُ في جهاتِ العالمِ الأربع بالإيمانِ القويمِ. وَلْنَبْتَهِلْ إلى الربِّ مِنْ أجْلِ كُلِّ صَقْعٍ مَسِيحيٍّ وإكليروسِه، والمؤمنين فيهِ، لِيَسيروا سيرةً فاضِلَةً. يا ربُّ ارْحَمْ  ",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Barekhmor. Nous commémorons aussi les rois chrétiens, fidèles et justes, qui ont élevé aux quatre points du monde des églises et des monastères et les ont gardés dans la vraie foi ; et pour toute la hiérarchie chrétienne, les clercs et le peuple fidèle ; afin qu’ils soient d’une grande vertu. Supplions le Seigneur. Kuryélayson÷",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
