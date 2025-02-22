@@ -242,17 +242,17 @@
     },
     {
       "id": 16,
-      "title": "topic add",
+      "title": "ܐܺܝܬܰܝܗܽܘܢ ܠܘܳܬ̣ ܡܳܪܝܳܐ ܐܰ‌ܠܳܗܳܐ - إِيثَيْهون لْوُثْ مُورْيُو آلُوهُو - هِيَ عِنْدَ الرَّبِّ الإلِه - Ils sont auprès du Seigneur Dieu",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܘܥܰܡ ܪܽܘܚܳܐ ܕܺܝܠܳܟ. ܐܺܝܬܰܝܗܽܘܢ ܠܘܳܬ̣ ܡܳܪܝܳܐ ܐܰ‌ܠܳܗܳܐ. ܫܳܘܶܐ ܘܙܳܕܶܩ.",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "ومع روحِكَ. هِيَ عِنْدَ الرَّبِّ الإلِه. يَجِبُ وَيَلِيقُ.",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Et avec votre esprit. Ils sont auprès du Seigneur Dieu. Il est juste et légitime.",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
