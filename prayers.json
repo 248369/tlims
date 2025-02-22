@@ -322,17 +322,17 @@
     },
     {
       "id": 21,
-      "title": "topic",
+      "title": "ܢܨܰܠܶܐ ܘܢܶܬܟܰܫܰܦ - نْصالِه وْنِثْكاشاف - لنصلِّ ونتضرّعْ - Prions et supplions",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܒܰܪܶܟܡܳܪܝ܆ ܢܨܰܠܶܐ ܘܢܶܬܟܰܫܰܦ ܠܡܳܪܰܢ ܘܰܐܠܳܗܰܢ ܒܥܶܕܳܢܳܐ ܗܳܢܳܐ ܪܰܒܳܐ ܘܰܕܚܺܝܠܳܐ ܘܩܰܕܺܝܫܳܐ ܚܠܳܦ ܟܽܠܗܽܘܢ ܐܰܒܳܗܳܬܳܐ ܘܰܡܕܰܒܪܳܢܶܐ ܕܺܝܠܰܢ܆ ܗܳܢܽܘܢ ܕܩܳܝܡܺܝܢ ܒܪܺܝܫܰܝܢ ܝܰܘܡܳܢܳܐ܆ ܘܰܒܚܰܝܶܐ ܕܰܬܢܳܢ ܠܥܺܕ̈ܳܬܳܐ ܩܰܕܺܝܫܳܬܳܐ ܕܰܐܠܳܗܳܐ ܕܒܰܐܪܒܰܥ ܦܶܢܝܳܢ ܪܳܥܶܝܢ ܘܰܡܕܰܒܪܺܝܢ܆ ܩܰܕܺܝܫܶܐ ܡܝܰܩܪܶܐ ܘܛܽܘܒܬܳܢܶܐ ܦܰܛܶܪܝܰܪܟܳܐ ܕܺܝܠܰܢ ܐܰܒܽܘܢ ܡܳܪܰܢ ܡܳܪܝ ܐܺܝܓܢܰܛܺܝܘܳܤ ܕܗܽܘ ( ) ܘܐܰܒܽܘܢ ܡܳܪܝ ( ) ܘܚܰܣܝܳܐ ܕܺܝܠܰܢ ܐܰܒܽܘܢ ܡܳܪܝ ( ) ܕܢܶܬܩܰܝܡܽܘܢ ܒܰܐܠܳܗܳܐ ܥܰܡ ܫܰܪܟܳܐ ܕܟܽܠܗܽܘܢ ܐܶܦܣܩܽܘܦܶܐ ܐܳܪ̈ܬܳܕܳܘܟܣܽܘ܆ ܨܠܽܘܬܗܽܘܢ ܫܽܘܪܳܐ ܬܶܗܘܶܐ ܠܰܢ܆ ܠܡܳܪܝܳܐ ܢܶܬܟܰܫܰܦ ܩܽܘܪܝܶܐܠܰܝܣܳܘܢ ÷ ",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "بارِخْمُورْ. لنصلِّ ونتضرّعْ إلى الربِّ إلهِنا في هذا الوقتِ العظيمِ الرّهيبِ والمقدّسِ، من أجلِ جميعِ آبائِنا ومُدبِّرينا الّذين يَرْأسونَنا اليومَ، ويَرْعَون ويدبِّرونَ بِيَعَ اللهِ المقدّسةَ  الكائنةَ في الأقطارِ الأربَعَةِ. وَهُم القدّيسون الأجلاّء المغبوطون: بطريركُنا مُوران مار اغناطيوس ( ) وأبونا مار ( ) ومطرانُنا أبونا مار ( )، لِيَثْبُتُوا بالله معَ سائرِ الأساقفة الأرثوذكسيِّين. فَلْتَكُنْ صَلاتُهُم سورًا لنا. لنتضرّعْ إلى الربِّ.  يا ربُّ ارحمْ ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Barékhmor. Prions et supplions notre Seigneur et notre Dieu, en ce grand, redoutable et saint moment, pour tous nos Pères et nos dirigeants. qui sont à notre tête aujourd’hui et dans la vie présente, et qui paissent et administrent les saintes Eglises de Dieu dans les quatre points du monde : les saints vénérables et bienheureux, notre Patriarche Mor Ignace ( ) et Mor ( ) ainsi que notre évêque mor ( ), afin qu’ils soient affermis par Dieu avec tous les autres évêques orthodoxes. Que leur prière nous soit un rempart. Supplions le Seigneur. Kuryélayson.",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
