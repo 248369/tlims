@@ -210,17 +210,17 @@
     },
     {
       "id": 14,
-      "title": "topic",
+      "title": "ܢܶܬܶܠ ܫܠܳܡܳܐ ܠܰܚܕܳܕܶܐ - نِتِلْ شْلُومُو لَحْذُوذِه - لِنُعْطِ السَّلامَ بَعْضُنا لبعضٍ - Donnons-nous la paix les uns aux autres",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܘܥܰܡ ܪܽܘܚܳܐ ܕܺܝܠܳܟ̣. ܢܶܬܶܠ ܫܠܳܡܳܐ ܠܰܚܕܳܕܶܐ ܟܽܠ ܐ̱ܢܳܫ ܠܩܰܪܺܝܒܶܗ ܒܢܽܘܫܰܩܬܳܐ ܩܰܕܺܝܫܬܳܐ ܘܰ‌ܐ‌ܠܳܗܳܝܬܳܐ ܒܚܽܘܒܶܗ ܕܡܳܪܰܢ ܘܰܐܠܳܗܰܢ܆ ܡܶܢ ܒܳܬܰܪ ܫܠܳܡܳܐ ܗܳܢܳܐ ܩܰܕܺܝܫܳܐ ܘܰܐܠܳܗܳܝܳܐ ܕܶܐܬܺܝܗܶܒ. ܬܽܘܒ ܩܕܳܡ ܡܳܪܝܳܐ ܡܪܰܚܡܳܢܳܐ ܪܺܝܫܰܝܢ ܢܰܪܟܶܢ. ܩܕܳܡܰܝܟ ܡܳܪܰܢ ܘܰܐܠܳܗܰܢ ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "ومعَ روحِـــــــكَ. لِنُعْطِ السَّلامَ بَعْضُنا لبعضٍ كلُّ واحدٍ لقريبِهِ بقُبْلَةٍ مُقَدَّسَةٍ وإلهيَّةٍ بِمَحَبَّةِ ربِّنا وإلهِنا. وَبَعْدَ إعطاءِ هذا السّلامِ  الإلهيِّ المقدَّسِ، فَلْنُحْنِ رُؤوسَنا ساجدينَ أمامَ الربِّ الرّحيم، أَمامَكَ ربَّنا وإلهَنا ܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Et à ton esprit. Donnons-nous la paix les uns aux autres, chacun à son voisin, par un baiser saint et divin, dans l’amour de notre Seigneur et notre Dieu. Et après cette paix sainte et divine qui a été donnée, inclinons nos têtes devant le Seigneur miséricordieux. Devant Toi, Seigneur notre Dieu.",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
