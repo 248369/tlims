@@ -15,7 +15,11 @@
       "fr": {
         "text": "Notre Père qui es aux cieux, que Ton nom soit sanctifié, que Ton règne vienne, que Ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd’hui le pain dont nous avons besoin, pardonne-nous nos offenses, comme nous pardonnons à ceux qui nous ont offensés. Ne nous induis pas en tentation, mais délivre-nous du Malin, car à Toi appartiennent le Règne, la Puissance et la Gloire, dans le Siècle des siècles. Amîn.",
         "sound": "https://example.com/audio2_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+  }
     },
     {
       "id": 2,
@@ -31,7 +35,11 @@
       "fr": {
         "text": "Par Ta lumière nous voyons la lumière, Jésus plein de lumière. Tu es la vraie lumière qui éclaire toute créature. Eclaire-nous de Ta belle lumière, ô image du Père céleste. O Pur et Saint, qui vis dans les sphères de lumière, éloigne de nous les passions mauvaises et les pensées impures. Donne- nous de faire, avee pureté de ceur, les ceuvres de justice. Venez pécheurs, suppliez et demandez le pardon, car la porte du Seigneur est ouverte à celui qui la frappe. Et quiconque demande reçoit, et l'on donne à celui qui cherche. Ô Dieu, Toi qui as accepté l'agneau d'Abel l'Innocent, l'offrande de Noé le Juste et le sacrifice d'Abraham, accepte notre encens et notre prière et dans Ta miséricorde réponds à nos demandes.",
         "sound": "https://example.com/audio2_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 3,
@@ -47,7 +55,11 @@
       "fr": {
         "text": "Par la prière de la mère qui T’a donné naissance et de tous Tes Saints Je T’exalte  ÷ Je T’exalte, ô mon Seigneur-Roi, Fils unique et Verbe du Père céleste, qui par Sa nature est immortel. + Il a accepté et il est venu dans Sa bonté, pour la vie et la rédemption du genre humain  ÷ Il a pris chair de la sainte, glorieuse et pure Vierge Marie, Mère de Dieu. Sans subir de changement, il s’est fait homme, a été crucifié nous, Lui, lepour  Christ notre Dieu ÷ Et par Sa mort, il a écrasé et tué notre mort. Il est l’une des Personnes de la Trinité sainte. Il est adoré et glorifié avec Son Père et Son Esprit Saint. Sois propice à nous tous ÷",
         "sound": "https://example.com/audio2_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 4,
@@ -63,7 +75,11 @@
       "fr": {
         "text": "Tu es Saint, ô Dieu, Tu es Saint, ô Fort,  Tu es Saint, ô Immortel, Toi qui as été crucifié pour nous ܀",
         "sound": "https://example.com/audio2_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 5,
@@ -79,7 +95,11 @@
       "fr": {
         "text": "Les Apôtres, choisis par Dieu et envoyés par Lui, se répandirent dans le monde entier, prêchant le message du fils parmi les Nations et jusqu'aux confins de la terre. Ils annonçaient le royaume des cieux, héritage heureux de ceux qui croient.",
         "sound": "https://example.com/audio2_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 6,
@@ -95,7 +115,11 @@
       "fr": {
         "text": "J’ai entendu le bienheureux apôtre Paul dire : Si quelqu’un vient vous prêcher une doctrine contraire à celle que je vous ai prêchée, qu’il soit excommunié de l’Eglise, fût-il un ange du ciel. Voici que des enseignements divers surgissent de toutes parts. Bienheureux celui qui a commencé et fini dans la doctrine de Dieu ÷",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 7,
@@ -111,7 +135,11 @@
       "fr": {
         "text": "Alléluia Alléluia Alléluia Offrez au Seigneur des sacrifices de louange Apportez les offrandes et entrez dans la demeure du Seigneur et prosternez-vous devant l’autel de Sa Sainteté. Alléluia",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 8,
@@ -127,7 +155,11 @@
       "fr": {
         "text": "Barekhmor. Avec attention, crainte et pureté, écoutons et obéissons au message des paroles vivantes du saint Evangile de Notre-Seigneur Jésus-Christ qui est lu devant nous.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 9,
@@ -143,8 +175,13 @@
       "fr": {
         "text": "Béni soit celui qui est venu et qui viendra. Gloire à Celui qui l’a envoyé. Et que ses miséricordes soient sur nous toujours ÷",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
-    },{
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
+    },
+    {
       "id": 10,
       "title": "ܩܕܳܡ ܡܳܪܝܳܐ ܡܪܰܚܡܳܢܳܐ - قْذُوم مُورْيُو مْرَحْمُونُو - أمامَ الرَّبِّ الرَّحيمِ - Devant le Dieu miséricordieux",
       "syc": {
@@ -158,7 +195,11 @@
       "fr": {
         "text": "Devant le Dieu miséricordieux, devant Son autel purificateur, et devant ces célestes et divins mystères, l’encens est versé des mains de ce prêtre vénérable. Prions tous et demandons au Seigneur pitié et miséricorde ÷ Seigneur miséricordieux, prends pitié de nous et secours-nous ÷",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 11,
@@ -174,7 +215,11 @@
       "fr": {
         "text": "Amîn. Que le Seigneur accepte votre propitiation et nous aide par vos prières.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 12,
@@ -190,7 +235,11 @@
       "fr": {
         "text": "Sophia Théou Proskomén ! (Sagesse de Dieu ! Soyons attentifs) Tenons-nous bien et répondons à la prière de notre père vénéré et disons :",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 13,
@@ -206,7 +255,11 @@
       "fr": {
         "text": "Nous croyons en un seul Dieu. Le Père tout-puissant, créateur du ciel et de la terre, de toutes les choses visibles et invisibles. Et en un seul Seigneur, Jésus-Christ, Fils Unique de Dieu, engendré par le Père avant tous les siècles ;  Lumière de Lumière, vrai Dieu de vrai Dieu, engendré non pas créé, consubstantiel au Père. et par qui toutes choses ont été faites ; qui, à cause de nous les hommes, et pour notre salut, est descendu des cieux, a pris chair du Saint Esprit. et de la Vierge Marie, mère de Dieu, et s’est fait homme, il a été crucifié pour nous sous Ponce Pilate, a souffert, est mort, a été enseveli, est ressuscité le troisième jour comme il voulut. et est monté aux cieux, siège à la droite de Son Père, et il reviendra dans Sa grande gloire juger les vivants et les morts, Lui dont le règne n’aura pas de fin.Et en un seul Esprit Saint, Seigneur qui vivifie toutes choses, qui procède du Père, qui est adoré et glorifié avec le Père et le Fils, qui a parlé par les prophètes et les Apôtres. Et en l’Eglise, une, sainte, universelle et apostolique. Nous confessons un seul baptême pour la rémission des péchés, et nous attendons la résurrection des morts et la vie nouvelle du siècle à venir. Amîn܀",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 14,
@@ -222,7 +275,11 @@
       "fr": {
         "text": "Et à ton esprit. Donnons-nous la paix les uns aux autres, chacun à son voisin, par un baiser saint et divin, dans l’amour de notre Seigneur et notre Dieu. Et après cette paix sainte et divine qui a été donnée, inclinons nos têtes devant le Seigneur miséricordieux. Devant Toi, Seigneur notre Dieu.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 15,
@@ -238,7 +295,11 @@
       "fr": {
         "text": "Tenons-nous bien ; tenons-nous avec crainte, tenons-nous avec modestie, tenons-nous avec pureté, tenons-nous avec sainteté. tenons-nous donc tous, mes frères, dans l’amour et la foi véritable. Dans la crainte de Dieu, regardons en esprit cette oblation  redoutable et sainte, placée devant nous, victime vivante, que le prêtre vénéré, de ses mains, offre pour nous tous, dans la paix et la concorde, à Dieu le Père de toute choses. Miséricorde, paix, sacrifice et reconnaissance܀",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 16,
@@ -254,7 +315,11 @@
       "fr": {
         "text": "Et avec votre esprit. Ils sont auprès du Seigneur Dieu. Il est juste et légitime.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 17,
@@ -270,7 +335,11 @@
       "fr": {
         "text": "Saint, Saint, Saint, le Seigneur puissant ! Le ciel et la terre sont pleins de Sa gloire. Hosanna au plus haut des cieux ! Béni soit celui qui est venu et qui viendra au nom du Seigneur notre Dieu ! Gloire au plus haut des cieux܀",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 18,
@@ -286,7 +355,11 @@
       "fr": {
         "text": "Nous commémorons Ta mort, Seigneur, nous confessons Ta résurrection et nous attendons Ton second avènement. Que Tes miséricordes soient sur nous tous܀",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 19,
@@ -302,7 +375,11 @@
       "fr": {
         "text": "Prends pitié de nous, Dieu Père tout puissant. Nous Te louons, nous Te bénissons, nous T’adorons et nous Te supplions, Seigneur notre Dieu :Sois clément, Toi qui es bon, et prends pitié de nous܀",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 20,
@@ -318,7 +395,11 @@
       "fr": {
         "text": "Comme cette heure est effrayante et qu’il est redoutable ce moment, mes biens-aimés, où l’Esprit-Saint afflue et descend des sublimes sphères célestes, volette et repose sur cette Eucharistie placée ici et la consacre. Tenez-vous debout et priez dans le silence et la crainte. Priez. Que la paix soit avec nous et la tranquillité à nous tous܀",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 21,
@@ -334,7 +415,11 @@
       "fr": {
         "text": "Barékhmor. Prions et supplions notre Seigneur et notre Dieu, en ce grand, redoutable et saint moment, pour tous nos Pères et nos dirigeants. qui sont à notre tête aujourd’hui et dans la vie présente, et qui paissent et administrent les saintes Eglises de Dieu dans les quatre points du monde : les saints vénérables et bienheureux, notre Patriarche Mor Ignace ( ) et Mor ( ) ainsi que notre évêque mor ( ), afin qu’ils soient affermis par Dieu avec tous les autres évêques orthodoxes. Que leur prière nous soit un rempart. Supplions le Seigneur. Kuryélayson.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 22,
@@ -350,7 +435,11 @@
       "fr": {
         "text": "Barekhmor. Nous commémorons aussi tous les frères fidèles et les vrais chrétiens, qui ont  précédemment recommandé et exhorté notre petitesse et notre faiblesse de nous souvenir d’eux en cette heure et en ce moment ; et pour tous ceux qui se trouvent en butte à toutes sortes detentations difficiles, et se réfugient auprès de Toi, Seigneur, Dieu puissant, qu’ils soient sauvés et secourus en toute hâte. Pour cette Eglise (ou monastère) protégée par Dieu, pour la concorde et le succès des fidèles qui l’habitent ; afin qu’ils soient dans la vertu. Supplions le Seigneur. Kuryélayson.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 23,
@@ -366,7 +455,11 @@
       "fr": {
         "text": "Barekhmor. Nous commémorons aussi les rois chrétiens, fidèles et justes, qui ont élevé aux quatre points du monde des églises et des monastères et les ont gardés dans la vraie foi ; et pour toute la hiérarchie chrétienne, les clercs et le peuple fidèle ; afin qu’ils soient d’une grande vertu. Supplions le Seigneur. Kuryélayson÷",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 24,
@@ -382,7 +475,11 @@
       "fr": {
         "text": "Barekhmor. Nous commémorons aussi celle qui est dignement béatifiée et bénie par toutes les générations de la terre, la sainte, glorifiée, bénie, exaltée et toujours vierge, la bienheureuse Marie Mère de Dieu. Avec elle, les Prophètes et les Apôtres, les Prédicateurs et les et les Evangélistes, les Martyrs et les Con-fesseurs ; le bienheureux Jean-Baptiste messager et précurseur de Son Maître ; St Etienne, archidiacre et premier martyr ; les princes exaltés des Apôtres St Pierre et St Paul ; nous commémorons aussi tous les Saints et les Saintes. Que leur prière nous soit un rempart. Supplions le Seigneur. Kuryélayson.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 25,
@@ -398,7 +495,11 @@
       "fr": {
         "text": "Barekhmor. Nous commémorons aussi ceux qui, parmi les saints, se sont précédemment endormis et reposés saintement ; qui ont gardé et nous ont transmis l’unique foi, apostolique et sans tâche ; nous proclamons donc les trois purs et saints synodes œcuméniques de Nicée, de Constantinople et d’Ephèse. Nous rappelons aussi les évêques et les docteurs qui y étaient présents, nos Pères glorifiés et portant Dieu : l’archevêque Jacques, premier évêque de Jérusalem, apôtre et martyr, Ignace, Clément, Denys, Athanase, Jules, Basile,Grégoire, Dioscore, Timothée, Philoxène, Antime, Jean. Et particulièrement, St Cyrille, ce véritable bastion, et  interprète qui exposa et expliqua l’incarnation du Verbe divin, notre Seigneur Jésus-Christ fait chair. Nous commémorons ensuite Moran Saint Sévère notre Patriarche, couronne des Syriaques, cette bouche éloquente, pilier et docteur de toute la sainte Eglise de Dieu. Et notre pur et saint père Jacques de Baradée, qui soutint la foi orthodoxe, St Ephrem, St Jacques, St Isaac, St Balai, St Barsaume, prince des anachorètes, St Simon le Stylite, et l’élu St Abhai. Et tous ceux qui avant eux, avec eux ou après eux, ont gardé pure et sans altération l’unique foi véritable, et nous l’ont transmise. Que leur prière nous soit un rempart. Supplions le Seigneur. Kuryélayson.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 26,
@@ -414,7 +515,11 @@
       "fr": {
         "text": "Barekhmor. Nous commémorons aussi tous les fidèles défunts de cet autel, de cette église et de tout autre lieu de la terre, ceux qui se sont précédemment endormis et reposés dans la vraie foi, et sont arrivés au Père, seigneur des âmes et de tout corps. Nous demandons et supplions le Christ, notre Dieu qui a reçu leurs âmes et leurs esprits chez Lui, de les rendre, dans Sa miséricorde abondante, dignes du pardon de leurs péchés et de la rémission de leurs fautes, et de nous permettre d’arriver, ainsi qu’eux, à Son royaume céleste. Et nous crions et disons trois fois : Kuryélayson. Kuryélayson. Kuryélayson.",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 27,
@@ -430,7 +535,11 @@
       "fr": {
         "text": "Donne-leur le repos, pardonne et efface, ô Dieu, nos fautes et les leurs, que nous avons commises devant Toi volontairement et involontairement, sciemment et inconsciemment܀",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
   "id": 28,
@@ -466,7 +575,11 @@
       "fr": {
         "text": "française",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 30,
@@ -482,7 +595,11 @@
       "fr": {
         "text": "française",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 31,
@@ -498,7 +615,11 @@
       "fr": {
         "text": "française",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 32,
@@ -514,7 +635,11 @@
       "fr": {
         "text": "française",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 33,
@@ -530,7 +655,11 @@
       "fr": {
         "text": "française",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     },
     {
       "id": 34,
@@ -546,7 +675,11 @@
       "fr": {
         "text": "française",
         "sound": "https://example.com/audio5_fr.mp3"
-      }
+      },
+      "en": {
+    "text": "English",
+    "sound": "https://example.com/audio5_en.mp3"
+     }
     }
 
   ]
