@@ -19,7 +19,11 @@
       "en": {
     "text": "English",
     "sound": "https://example.com/audio5_en.mp3"
-  }
+  },
+      "ga": {
+        "text": "Garshuniكرشونية",
+        "sound": "https://example.com/audio2_ar.mp3"
+      }
     },
     {
       "id": 2,
