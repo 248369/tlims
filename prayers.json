@@ -418,17 +418,17 @@
     },
     {
       "id": 27,
-      "title": "topic",
+      "title": "ܐܰܢܺܝܚ ܘܚܰܣܳܐ ܘܰܫܒܽܘܩ ܐܰ‌ܠܳܗܳܐ - آنِيحْ وْحاسُو وَشْبوقْ آلُوهُو - ارْحَمْ اللَّهُمَّ وَاغْفِرْ وَسامِحْ - Donne-leur le repos, pardonne et efface, ô Dieu",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܐܰܢܺܝܚ ܘܚܰܣܳܐ ܘܰܫܒܽܘܩ ܐܰ‌ܠܳܗܳܐ ܠܫܽܘܪ̈ܥܳܬܳܐ ܕܺܝܠܰܢ ܘܕܺܝܠܗܽܘܢ ܐܰܝܠܶܝܢ ܕܰܚܛܰܝܢܰܢ ܩܕܳܡܰܝܟ ܒܨܶܒܝܳܢܳܐ ܘܰܕܠܳܐ ܒܨܶܒܝܳܢܳܐ ܒܺܝܕܰܥܬܳܐ ܘܰܕܠܳܐ ܒܺܝܕܰܥܬܳܐ ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "ارْحَمْ اللَّهُمَّ وَاغْفِرْ وَسامِحْ ذُنوبَنا وَذُنوبَهُم لِما فَرَّطْنا وَفَرَّطُوا بِهِ  أمامَكَ (مِنَ الزَّلاّت)، بِإرادةٍ وبِغَيْرِ إرادةٍ، بِمَعْرِفَةٍ وَبِغَيْرِ مَعْرِفَةٍ܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Donne-leur le repos, pardonne et efface, ô Dieu, nos fautes et les leurs, que nous avons commises devant Toi volontairement et involontairement, sciemment et inconsciemment܀",
         "sound": "https://example.com/audio5_fr.mp3"
       }
     },
