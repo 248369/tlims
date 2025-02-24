@@ -771,17 +771,17 @@
     },
     {
       "id": 33,
-      "title": "topic",
+      "title": "ܚܰܝܠܰܘܳܬܳܐ ܫܡܰܝܳܢܶܐ - حَيْلاوُوثُو شْمايُونِه - إنَّ القُوَّاتِ السَّماوِيَّةَ - Les   puissances célestes",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܚܰܝܠܰܘܳܬܳܐ ܫܡܰܝܳܢܶܐ ܩܳܝܡܺܝܢ ܥܰܡܰܢ ܒܒܶܝܬ̣ ܩܽܘܕܫܳܐ܆ ܘܰܡܙܰܝܚܺܝܢ ܠܶܗ ܠܦܰܓܪܶܗ ܘܰܕܡܶܗ ܕܒܰܪ ܐܰ‌ܠܳܗܳܐ ܕܰܕܒܺܝܚ ܩܽܘܕܡܰܝܢ܆ ܩܪܽܘܒܘ̱ ܣܰܒܘ̱ ܡܶܢܶܗ ܠܚܽܘܣܳܝ ܚܰܘܒܶܐ ܘܰܚܛܳܗܶܐ ܗܰܠܶܠܽܘܝܰܗ ÷ ܥܰܠ ܡܰܕܒܚܳܟ ܡܳܪܝ̱ ܢܶܬ̣ܕܰܟܪܽܘܢ܆ ܐܰܒܳܗܰܝܢ ܘܰܐܚܰܝܢ ܘܪܰܒܳܢܰܝܢ܆ ܘܰܢܩܽܘܡܽܘܢ ܡܶܢ ܝܰܡܺܝܢܳܟ܆ ܒܝܰܘܡܳܐ ܕܕܳܢܚܳܐ ܪܰܒܽܘܬܳܟ. (ܡܰܠܟܳܐ ܡܫܺܝܚܳܐ ܗܰܠܶܠܽܘܝܰܐ)‌ ÷",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "إنَّ القُوَّاتِ السَّماوِيَّةَ تَقِفُ في بَيْتِ القُدْسِ وَيُزَيِّحونَ جَسَدَ وَدَمَ ابنِ اللهِ المَذْبوحِ أمامَنا. اقْتَرِبُوا وَتَناوَلُوا مِنْهُ لِغُفْرانِ الآثامِ والخطايا هللويا. على مذْبَحِكَ يا ربُّ يُذْكَرُ آباؤُنا وإخْوَتُنا وَمُعَلِّمونا. وَيَقِفونَ عَنْ يَمينِكَ في اليومِ الَّذي تُشْرِقُ فيهِ عَظَمَتُكَ . ( أيُّها المَسيحُ المَلِكُ هَلّلويا ). ",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Les   puissances célestes se tiennent avec nous dans le   sanctuaire. Elles   portent   en  procession le corps et le sang du fils de Dieu sacrifié devant nous. Approchez-vous et prenez-en pour la rémission des fautes et des péchés. Alléluia ÷ Sur ton autel, Seigneur, que soient commémorés nos pères, frères et maîtres, afin qu’ils se tiennent à ta droite le jour où se manifestera ta grandeur. (Christ-Roi hallelouya) ÷",
         "sound": "https://example.com/audio5_fr.mp3"
       },
       "en": {
@@ -789,7 +789,7 @@
     "sound": "https://example.com/audio5_en.mp3"
      },
       "ga": {
-        "text": "الكرشونية",
+        "text": "حَيْلاوُوثُو شْمايُونِه قُيْمِين عامانْ بْبِثْ قودْشُو. وَمْزَيْحِين لِه لْفَغْرِه وَدْمِه دْبارْ آلُوهُو دَدْبِيحْ قودْمَين. قْروبْ سابْ مِنِه لْحوسُويْ حَوْبِه وَحْطُوهِه هَلّلويا ÷ عالْ مَذبْحُوخ مُور نِتْداخْرون أَبُوهَيْن واحَيْن وْرابُونَيْن. وَنْقومونْ مِن يامِينُوخ بْيَومُو دْدُونْحُو رابوثُوخ ( مَلكُو مْشِيحُو هَلّلويا )÷",
         "sound": "https://example.com/audio2_syc.mp3"
       }
     },
