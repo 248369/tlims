@@ -891,17 +891,17 @@
     },
     {
       "id": 38,
-      "title": "topic",
+      "title": "ܡܶܢ ܒܳܬܰܪ ܢܣܺܝܒܽܘܬܳܐ - مِن بُوثارْ نْسِيبوثُو - مِنْ بَعْدَ تَناوُلِ - Après la réception",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܘܥܰܡ ܪܽܘܚܳܐ ܕܺܝܠܳܟ: ܡܶܢ ܒܳܬܰܪ ܢܣܺܝܒܽܘܬܳܐ ܕܐ̱ܪܳܙܶܐ ܗܳܠܶܝܢ ܩܰܕܺܝܫܶܐ ܘܰܐܠܳܗܳܝܶܐ ܕܶܐܬܺܝܗܶܒܘ̱: ܬܽܘܒ ܩܕܳܡ ܡܳܪܝܳܐ ܡܪܰܚܡܳܢܳܐ ܪܺܝܫܰܝܢ ܢܰܪܟܶܢ. ܩܕܳܡܰܝܟ ܡܳܪܰܢ ܘܰܐܠܳܗܰܢ ÷",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "ومعَ روحِكَ. مِنْ بَعْدَ تَناوُلِ  هذه الأسرار المقدَّسَةِ والإلهيَّة الّتي وُهِبَتْ لَنا، فَلْنُطَأْطِئ رُؤُوسَنا سُجودًا أمامَ الربِّ الرَّحيم، أمامَكَ ربَّنا وإلَهَنا ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Et à votre esprit Après la réception de ces mystères saints et divins qui ont été donnés, inclinons nos têtes devant le Dieu miséricordieux. Devant Toi, Seigneur notre Dieu.",
         "sound": "https://example.com/audio5_fr.mp3"
       },
       "en": {
@@ -909,7 +909,7 @@
     "sound": "https://example.com/audio5_en.mp3"
      },
       "ga": {
-        "text": "الكرشونية",
+        "text": "وْعامْ روحُو دِيلُوخ. مِن بُوثارْ نْسِيبوثُو دْرُوزه هُولِنْ   قادِيشه والُوهُويه دِثِيهِبْ. توب قْذُوم مُورْيُو مْرَحْمُونُو رِيشَين نَرْكِن. قْذُومَيكْ مُورانْ والُوهان.",
         "sound": "https://example.com/audio2_syc.mp3"
       }
     },
