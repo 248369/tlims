@@ -675,17 +675,17 @@
 },
     {
       "id": 29,
-      "title": "topic",
+      "title": "ܠܶܗ ܠܰܐܠܳܗܳܐ ܐܰܒܳܐ ܡܳܪܶܐ ܟܽܠ ܢܰܘܕܶܐ - ليه لالوهو أبو موري كول نودي - نصعد التسابيح لله الآب الفريد - Nous Te rendons grâce Dieu Père",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܠܶܗ ܠܰܐܠܳܗܳܐ ܐܰܒܳܐ ܡܳܪܶܐ ܟܽܠ ܢܰܘܕܶܐ܆ ܘܠܰܒܪܶܗ ܝܺܚܺܝܕܳܝܳܐ ܢܶܣܓܽܘܕ܆ ܘܰܠܪܽܘܚܶܗ ܩܰܕܺܝܫܳܐ ܢܫܰܒܰܚ ܘܚܰܝܰܝܢ ܒܐܝܕ̈ܰܝܟ ܢܰܓܥܶܠ܆ ܘܡܶܢܳܗ̇ ܕܰܡܪܰܚܡܳܢܽܘܬܶܗ ܪܰܚܡܶܐ ܢܶܫܰܐܠ. ܚܽܘܤ ܛܳܒܳܐ ܘܶܐܬ̣ܪܰܚܰܡܶܥܠܰܝܢ.",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "نصعد التسابيح لله الآب الفريد، ونقدّم السجود لابنه الوحيد، ونهتف بالدعاء للروح القدس الفارقليط، نحن الذين بين يديك نسلم كافة أيام حياتنا. يا الله، يا رحوم، يا حنون، اصنع معنا رحمة وحنانا وأشفق علينا أيها الصـــالح وارحمنا ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Nous Te rendons grâce Dieu Père, Seigneur de toutes choses, nous  adorons Ton fils unique, et nous  glorifions Ton Esprit-Saint. Nous remettons nos vies entre Tes mains Seigneur miséricordieux. Nous sollicitons Tes miséricordes. Sois propice, Toi qui est bon, et prends pitié de nous.",
         "sound": "https://example.com/audio5_fr.mp3"
       },
       "en": {
@@ -693,7 +693,7 @@
     "sound": "https://example.com/audio5_en.mp3"
      },
       "ga": {
-        "text": "الكرشونية",
+        "text": "ليه لالوهو أبو موري كول نودي , ولابريه إيحيذويو نيسغود ولروحيه قاديشو نشاباح وحاياين ناكعِيل ومِينُوه دمرحمونوثيه رَحْمِي نيشال حوس طوبو وإثراحام علاين .",
         "sound": "https://example.com/audio2_syc.mp3"
       }
     },
