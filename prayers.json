@@ -699,17 +699,17 @@
     },
     {
       "id": 30,
-      "title": "topic",
+      "title": "ܡܶܢ ܩܕܳܡ ܢܣܺܝܒܽܘܬܳܐ ܕܐ̱ܪܳܙܶܐ ܗܳܠܶܝܢ - مِن قْذُومْ نْسِيبوثُو دْرُوزه هُولِنْ - قَبْلَ تَناولِ هذه الأسرارِ - Avant la communion de ces mystères",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܘܥܰܡ ܪܽܘܚܳܐ ܕܺܝܠܳܟ: ܡܶܢ ܩܕܳܡ ܢܣܺܝܒܽܘܬܳܐ ܕܐ̱ܪܳܙܶܐ ܗܳܠܶܝܢ ܩܰܕܺܝܫܶܐ ܘܰܐܠܳܗܳܝܶܐ ܕܶܐܬܩܰܪܰܒܘ̱܆ ܬܽܘܒ ܩܕܳܡ ܡܳܪܝܳܐ ܡܪܰܚܡܳܢܳܐ ܪܺܝܫܰܝܢ ܢܰܪܟܶܢ.ܩܕܳܡܰܝܟ ܡܳܪܰܢ ܘܰܐܠܳܗܰܢ.",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "وَمَعَ روحِكَ قَبْلَ تَناولِ هذه الأسرارِ المُقَدَّسةِ والإلَهِيَّةِ الّتي تُقَدَّم، فَلْنحنِ رؤوسَنا سجودًا أمامَ الربِّ الرَّحيم، أمامَكَ رَبَّنا وَإلهَنا.",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Et à votre  esprit Avant la communion de ces mystères saints et divins qui ont été offerts, inclinons nos têtes devant le Dieu miséricordieux Devant Toi, Seigneur notre Dieu.",
         "sound": "https://example.com/audio5_fr.mp3"
       },
       "en": {
@@ -717,7 +717,7 @@
     "sound": "https://example.com/audio5_en.mp3"
      },
       "ga": {
-        "text": "الكرشونية",
+        "text": "وْعامْ روحُو دِيلُوخ. مِن قْذُومْ نْسِيبوثُو دْرُوزه هُولِنْ قادِيشه والُوهُويه دِثْقارابْ. توب قْذُوم مُورْيُو مْرَحْمُونُو رِيشَيْن نَرْكِنْ. قْذُومَيكْ مُـــــورانْ وَالُوهانْ.",
         "sound": "https://example.com/audio2_syc.mp3"
       }
     },
