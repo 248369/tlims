@@ -843,17 +843,17 @@
     },
     {
       "id": 36,
-      "title": "topic",
+      "title": "ܠܳܟ ܬܶܒܪܽܘܟ ܘܬܶܣܓܽܘܕ ܬܺܐܒܶܝܠ - لُوخ تِبْروك وْتِسْكودْ تِيبِلْ - فَلْتَجْثُ لَكَ المسكونةُ ساجِدَةً - L’univers s’incline et T’adore",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܠܳܟ ܬܶܒܪܽܘܟ ܘܬܶܣܓܽܘܕ ܬܺܐܒܶܝܠ܆ ܘܟܽܠ ܠܶܫܳܢ ܠܰܫܡܳܟ ܢܰܘܕܶܐ܆ ܕܰܐܢܬ ܗܽܘ ܡܢܰܚܡܳܢܳܐ ܕܡܺܝܬܶܐ܆ ܘܣܰܒܪܳܐ ܛܳܒܳܐ ܠܰܩܒܺܝܪܶܐ܆ ܗܰܠܶܠܽܘܝܰܗ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "فَلْتَجْثُ لَكَ المسكونةُ ساجِدَةً، وليُمَجِّدِ اسْمَكَ كلُّ لسانٍ حامِدًا، لأنَّكَ باعِثُ الموتى ورجاءٌ صالحٌ لَهُم. هلّلويا܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "L’univers s’incline et T’adore. Toute langue confesse Ton nom, car Tu es la résurrection des morts et la douce espérance des défunts. Alléluia܀",
         "sound": "https://example.com/audio5_fr.mp3"
       },
       "en": {
@@ -861,7 +861,7 @@
     "sound": "https://example.com/audio5_en.mp3"
      },
       "ga": {
-        "text": "الكرشونية",
+        "text": "لُوخ تِبْروك وْتِسْكودْ تِيبِلْ. وْخولْ لِشُون لَشْمُوخ نَودِه. داتو مْنَحْمُونُو دْمِيثه. وْسَبْرُو طُوبُو لَقْبِيره هلّلويا܀",
         "sound": "https://example.com/audio2_syc.mp3"
       }
     },
