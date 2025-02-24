@@ -723,17 +723,17 @@
     },
     {
       "id": 31,
-      "title": "topic",
+      "title": "ܒܕܶܚܠܬܳܐ ܘܒܰܪܬܺܝܬܳܐ ܢܚܽܘܪ - بْدِحلْثُو وْبَرْثِيثُو نْحورْ - لِنُحَدِّقْ بعبادَةٍ وَوَرَعٍ - Regardons avec crainte et tremblement",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܐܰܡܺܝܢ ܒܰܪܶܟܡܳܪܝ̱ ܒܕܶܚܠܬܳܐ ܘܒܰܪܬܺܝܬܳܐ ܢܚܽܘܪ ܀ ܚܽܘܤ ܡܳܪܝܳܐ ܡܪܰܚܡܳܢܳܐ ܘܪܰܚܶܡܥܠܰܝܢ ܘܥܰܕܰܪܰܝܢ: ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "آمين. , بارك يا سيد . لِنُحَدِّقْ بعبادَةٍ وَوَرَعٍ  ܀ أيُّها الربُّ تَعَطَّفْ مُتَرَحِّمًا عَلَيْنا وَأَعِنَّا ܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Amin. Barekhmor. Regardons avec crainte et tremblement ܀ Sois-nous propice, Seigneur, prends pitié de nous et secours-nous ܀",
         "sound": "https://example.com/audio5_fr.mp3"
       },
       "en": {
@@ -741,7 +741,7 @@
     "sound": "https://example.com/audio5_en.mp3"
      },
       "ga": {
-        "text": "الكرشونية",
+        "text": "آمِين بارِخْمُورْ. بْدِحلْثُو وْبَرْثِيثُو نْحورْ ܀ حوس مُورْيُو مرَحمُونو وْراحِم عْلَين وْعادارَين ܀",
         "sound": "https://example.com/audio2_syc.mp3"
       }
     },
