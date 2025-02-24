@@ -912,54 +912,6 @@
         "text": "وْعامْ روحُو دِيلُوخ. مِن بُوثارْ نْسِيبوثُو دْرُوزه هُولِنْ   قادِيشه والُوهُويه دِثِيهِبْ. توب قْذُوم مُورْيُو مْرَحْمُونُو رِيشَين نَرْكِن. قْذُومَيكْ مُورانْ والُوهان.",
         "sound": "https://example.com/audio2_syc.mp3"
       }
-    },
-    {
-      "id": 39,
-      "title": "topic",
-      "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
-        "sound": "https://example.com/audio5_en.mp3"
-      },
-      "ar": {
-        "text": "العربية",
-        "sound": "https://example.com/audio5_ar.mp3"
-      },
-      "fr": {
-        "text": "française",
-        "sound": "https://example.com/audio5_fr.mp3"
-      },
-      "en": {
-    "text": "English",
-    "sound": "https://example.com/audio5_en.mp3"
-     },
-      "ga": {
-        "text": "الكرشونية",
-        "sound": "https://example.com/audio2_syc.mp3"
-      }
-    },
-    {
-      "id": 40,
-      "title": "topic",
-      "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
-        "sound": "https://example.com/audio5_en.mp3"
-      },
-      "ar": {
-        "text": "العربية",
-        "sound": "https://example.com/audio5_ar.mp3"
-      },
-      "fr": {
-        "text": "française",
-        "sound": "https://example.com/audio5_fr.mp3"
-      },
-      "en": {
-    "text": "English",
-    "sound": "https://example.com/audio5_en.mp3"
-     },
-      "ga": {
-        "text": "الكرشونية",
-        "sound": "https://example.com/audio2_syc.mp3"
-      }
     }
 
   ]
