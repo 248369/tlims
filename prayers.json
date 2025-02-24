@@ -795,17 +795,17 @@
     },
     {
       "id": 34,
-      "title": "topic",
+      "title": "ܣܓܺܝܕ ܘܰܡܫܰܒܰܚ - سْغِيدْ وَمْشاباحْ - السُّجودُ والحَمْدُ - Qu’adorés et loués soient",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܣܓܺܝܕ ܘܰܡܫܰܒܰܚ ܐܰܒܳܐ ܘܰܒܪܳܐ ܘܪܽܘܚܳܐ ܩܰܕܺܝܫܳܐ܆ ܡܶܢ ܥܳܠܰܡ ܘܰܠܕܳܪ ܕܳܪܺܝܢ ܠܶܗ ܬܶܫܒܽܘܚܬܳܐ ܗܰܠܶܠܽܘܝܰܗ ÷",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "السُّجودُ والحَمْدُ للآبِ والابنِ والرُّوحِ القدسِ، له المجدُ مُنْذُ الأزَلِ وإلى أبدِ الآبدين. هلّلويا ÷",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Qu’adorés et loués soient le Père, le Fils et le Saint Esprit. Gloire à Lui depuis l’éternité et jusqu’au siècle des siècles. Gloire à eux. Alléluia ÷",
         "sound": "https://example.com/audio5_fr.mp3"
       },
       "en": {
@@ -813,7 +813,7 @@
     "sound": "https://example.com/audio5_en.mp3"
      },
       "ga": {
-        "text": "الكرشونية",
+        "text": "سْغِيدْ وَمْشاباحْ آبُو وَبْرُو وْروحُو قادِيشُو. مِنْ عُولامْ وَلْدُورْدُورِين لِه تِشْبوحْتُو هلّلويا ÷",
         "sound": "https://example.com/audio2_syc.mp3"
       }
     },
