@@ -867,17 +867,17 @@
     },
     {
       "id": 37,
-      "title": "topic",
+      "title": "ܡܰܘܕܶܝܢܰܢ ܠܳܟ - مَوْدِنانْ لُوخْ - نَشْكُرُكَ - Nous Te remercions",
       "syc": {
-        "text": "ܣܘܪܝܐܝܬ",
+        "text": "ܡܰܘܕܶܝܢܰܢ ܠܳܟ ܡܳܪܝܳܐ ܐܰ‌ܠܳܗܰܢ܆ ܘܝܰܬܺܝܪܳܐܺܝܬ̣ ܡܩܰܒܠܺܝܢܰܢ ܛܰܝܒܽܘܬܳܟ ܕܰܠܘܳܬܰܢ܆ ܐܶܬ̣ܪܰܚܰܡܥܠܰܝܢ܀",
         "sound": "https://example.com/audio5_en.mp3"
       },
       "ar": {
-        "text": "العربية",
+        "text": "نَشْكُرُكَ وَنَقْبَلُ إنْعامَكَ عَلَيْنا دائمًا، أشْفِقْ أيُّها الصَّالِحُ وارْحَمْنا܀",
         "sound": "https://example.com/audio5_ar.mp3"
       },
       "fr": {
-        "text": "française",
+        "text": "Nous Te remercions Seigneur notre Dieu ; et nous sommes particulièrement reconnaissants de Ta grâce envers nous. Prends pitié de nous܀",
         "sound": "https://example.com/audio5_fr.mp3"
       },
       "en": {
@@ -885,7 +885,7 @@
     "sound": "https://example.com/audio5_en.mp3"
      },
       "ga": {
-        "text": "الكرشونية",
+        "text": "مَوْدِنانْ لُوخْ موريو الوهان وياتِيرُواِيث وَمْقَبْلِينانْ طَيْبوثُوخ دَلْوُثانْ وِثْراحام عْلَين܀",
         "sound": "https://example.com/audio2_syc.mp3"
       }
     },
