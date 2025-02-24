@@ -651,17 +651,17 @@
     },
     {
   "id": 28,
-  "title": "topic",
+  "title": "ܐܰܝܟܰܢܳܐ ܕܺܐܝܬ̣ܰܘܗ̱ܝ - أَيْكانُو دِيثاوْي - كما أنَّهُ كان - Comme il a été",
   "syc": {
-    "text": "ܣܘܪܝܐܝܬ",
+    "text": "ܐܰܝܟܰܢܳܐ ܕܺܐܝܬ̣ܰܘܗ̱ܝ ܗ̱ܘܳܐ ܘܺܐܝܬ̣ܰܘܗ̱ܝ܆ ܘܰܡܟܰܬܰܪ ܠܕܳܪܕܳܪܺܝܢ ܘܰܠܟܽܠܗܽܘܢ ܕܳܪܶܐ ܕܥܳܠܡܰܝ ܥܳܠܡܺܝܢ ܐܰܡܺܝܢ ܒܰܪܶܟܡܳܪܝ̱ ܀",
     "sound": "https://example.com/audio5_syc.mp3"
   },
   "ar": {
-    "text": "العربية",
+    "text": "كما أنَّهُ كان،وَهُوَ كائِنٌ وثابتٌ، هَكذا سَيَبْقَى إلى دَهْرِ الدَّاهِرين، وَفِي سائِرِ الأجْيال، إلى أَبَدِ الآبدين. آمين بارِخْمُورْ܀",
     "sound": "https://example.com/audio5_ar.mp3"
   },
   "fr": {
-    "text": "française",
+    "text": "Comme il a été, ainsi en est-il et restera, dans le siècle des siècles, et jusqu’à la fin des siècles܀",
     "sound": "https://example.com/audio5_fr.mp3"
   },
   "en": {
