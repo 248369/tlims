@@ -1,83 +1,38 @@
 {
   "syr_texts": [
-    
     {
       "id": 1,
-            "page1": {
-        "text": "text1",
-      },
-      "page2": {
-        "text": "text2",
-      },
-      "page3": {
-        "text": "text3",
-      },
-      "page4": {
-        "text": "text5",
-      }
+      "page1": { "text": "text1" },
+      "page2": { "text": "text2" },
+      "page3": { "text": "text3" },
+      "page4": { "text": "text4" }
     }
-
-  ]
-
-"ar_texts": [
-    
+  ],
+  "ar_texts": [
     {
       "id": 1,
-            "page1": {
-        "text": "text1",
-      },
-      "page2": {
-        "text": "text2",
-      },
-      "page3": {
-        "text": "text3",
-      },
-      "page4": {
-        "text": "text5",
-      }
+      "page1": { "text": "text1" },
+      "page2": { "text": "text2" },
+      "page3": { "text": "text3" },
+      "page4": { "text": "text4" }
     }
-
-  ]
-
-"fr_texts": [
-    
+  ],
+  "fr_texts": [
     {
       "id": 1,
-            "page1": {
-        "text": "text1",
-      },
-      "page2": {
-        "text": "text2",
-      },
-      "page3": {
-        "text": "text3",
-      },
-      "page4": {
-        "text": "text5",
-      }
+      "page1": { "text": "text1" },
+      "page2": { "text": "text2" },
+      "page3": { "text": "text3" },
+      "page4": { "text": "text4" }
     }
-
-  ]
-
-"ga_texts": [
-    
+  ],
+  "ga_texts": [
     {
       "id": 1,
-            "page1": {
-        "text": "text1",
-      },
-      "page2": {
-        "text": "text2",
-      },
-      "page3": {
-        "text": "text3",
-      },
-      "page4": {
-        "text": "text5",
-      }
+      "page1": { "text": "text1" },
+      "page2": { "text": "text2" },
+      "page3": { "text": "text3" },
+      "page4": { "text": "text4" }
     }
-
   ]
-
-
 }
