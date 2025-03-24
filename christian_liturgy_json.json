@@ -11,19 +11,19 @@
   "ar_texts": [
     {
       "id": 1,
-      "page1": { "text": "text1" },
-      "page2": { "text": "text2" },
-      "page3": { "text": "text3" },
-      "page4": { "text": "text4" }
+      "page1": { "text": "العربية1" },
+      "page2": { "text": "العربية2" },
+      "page3": { "text": "العربية3" },
+      "page4": { "text": "العربية4" }
     }
   ],
   "fr_texts": [
     {
       "id": 1,
-      "page1": { "text": "text1" },
-      "page2": { "text": "text2" },
-      "page3": { "text": "text3" },
-      "page4": { "text": "text4" }
+      "page1": { "text": "french1" },
+      "page2": { "text": "french2" },
+      "page3": { "text": "french3" },
+      "page4": { "text": "french3" }
     }
   ],
   "ga_texts": [
