@@ -2,7 +2,7 @@
   "syr_texts": [
     {
       "id": 1,
-      "page1": { "text": "text1" },
+      "page1": { "text": "ܩܰܕܺܝܫܰܬ ܐܰ‌ܠܳܗܳܐ:ܩܰܕܺܝܫܰܬ ܚܰܝܠܬ̣ܳܢܳܐ: ܩܰܕܺܝܫܰܬ ܠܳܐ ܡܳܝܽܘܬ̣ܳܐ: ܕܶܐܨܛܠܶܒܬ ♰ ܚܠܳܦܰܝܢ ܐܶܬ̣ܪܰܚܰܡܥܠܰܝܢ ܀" },
       "page2": { "text": "text2" },
       "page3": { "text": "text3" },
       "page4": { "text": "text4" }
@@ -11,7 +11,7 @@
   "ar_texts": [
     {
       "id": 1,
-      "page1": { "text": "العربية1" },
+      "page1": { "text": "قدّوس أنت يا الله . قدوس أنت أيها القوي ، قدوس أنت يا غير المائت ، يا من صُـلِـبتَ عوضـــــنا  إرحمنا" },
       "page2": { "text": "العربية2" },
       "page3": { "text": "العربية3" },
       "page4": { "text": "العربية4" }
@@ -20,7 +20,7 @@
   "fr_texts": [
     {
       "id": 1,
-      "page1": { "text": "french1" },
+      "page1": { "text": "Tu es Saint, ô Dieu Tu es Saint, ô Fort,  Tu es Saint, ô Immortel, Toi qui as été crucifié pour nous," },
       "page2": { "text": "french2" },
       "page3": { "text": "french3" },
       "page4": { "text": "french3" }
@@ -29,7 +29,7 @@
   "ga_texts": [
     {
       "id": 1,
-      "page1": { "text": "text1" },
+      "page1": { "text": "قاديـشـات  آلُوهُو قـاديـشـات حايـِلْـثُونُو، قاديشات لُو مُويوثُو دِصْطْلِبْتْ حْلُوفَيْن إتْرَاحامْ عْلايْن." },
       "page2": { "text": "text2" },
       "page3": { "text": "text3" },
       "page4": { "text": "text4" }
